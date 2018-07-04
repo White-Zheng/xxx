@@ -1,22 +1,22 @@
-## ���i
+﻿## 公告
 
-###### �ҵ{:106�Ǧ~�׮L�u�ǰ|-��Ƭ�ǵ{���]�p
+###### 課程:106學年度夏季學院-資料科學程式設計
 
-#### �ۧڤ���
+#### 自我介紹
 
-�ڥs���G�h�o�A�ثe�NŪ�ѥD�л����j�ǡA�ؼХͪ���ǻP�������D�סC  <br />
-�]����{���T�����n�ӭ�Ū�F�o��ҡC
+我叫做鄭懷得，目前就讀天主教輔仁大學，目標生物科學與哲學雙主修。  <br />
+因為體認到資訊的重要而修讀了這堂課。
  
 
-## �Ĥ@�g
+## 第一週
 
-#### �ҵ{���e 
+#### 課程內容 
 
-1.  �ҵ{�}��(���СB����)  <br />
-2.  github�򥻨ϥ�  <br />
-3.  R�y���BRStudio�w�˻P�ǲ�  <br />
-4.  �Ĥ@���@�~(���gREADME.md�Bhw1.Rmd�Bhw1.html)
+1.  課程開場(介紹、分組)  <br />
+2.  github基本使用  <br />
+3.  R語言、RStudio安裝與學習  <br />
+4.  第一次作業(撰寫README.md、hw1.Rmd、hw1.html)
 
-#### �@�~�d��
+#### 作業範例
 
 -  [week1](https://help.github.com/articles/page-build-failed-file-is-not-properly-utf-8-encoded/)
