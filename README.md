@@ -19,4 +19,4 @@
 
 #### 作業範例
 
--  [week1](https://help.github.com/articles/page-build-failed-file-is-not-properly-utf-8-encoded/)
+-  [week1](https://white-zheng.github.io/xxx/week1/HW1.html)
