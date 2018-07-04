@@ -18,4 +18,4 @@
 
 #### ง@ท~ฝdจา
 
--  [week1](https://github.com/White-Zheng/xxx/blob/master/week1/HW1.Rmd)
+-  [week1](https://help.github.com/articles/page-build-failed-file-is-not-properly-utf-8-encoded/)
