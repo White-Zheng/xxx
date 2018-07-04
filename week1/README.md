@@ -8,4 +8,4 @@
 
 #### ง@ท~ฝdจา
 
--  [week1](http://example.com/ "Title")
+-  [week1](https://github.com/White-Zheng/xxx/blob/master/week1/HW1.Rmd)
